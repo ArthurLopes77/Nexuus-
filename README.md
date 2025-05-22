@@ -6,7 +6,7 @@ Bem-vindo ao repositório oficial da **Nexuus**, uma agência de marketing espec
 ## 🌐 Site Online
 
 Acesse o site da Nexuus:
-[https://ArthurLopes77.github.io/nexuus-site](https://ArthurLopes77.github.io/nexuus-site)
+[https://arthurlopes77.github.io/Nexuus-/](https://arthurlopes77.github.io/Nexuus-/)
 
 ## 📱 Instagram
 
